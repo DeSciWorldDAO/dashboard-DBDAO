@@ -1,1 +1,22 @@
 
+{
+   "name": "DBDAO",
+   "tokenSymbol": null,
+   "DaoOS": "Snapshot",
+   "address": null,
+   "description": "DB DAO is a protocol for community owned databases. DeSci will run on decentralized databases. DB DAO makes each database a DAO and each row in a database an NFT. We have a white label app and GraphQL bindings to simplify integration with other DAO tooling.",
+   "whitePaperLink": "https://docs.dbdao.xyz/",
+   "gallery": [],
+   "deleted": false,
+   "primaryColor": "#00000",
+   "twitterHandle": "db_dao",
+   "coingeckoId": null,
+   "snapshotId": null,
+   "logo": "https://i.imgur.com/V1bLnaC.png",
+   "telegramLink": null,
+   "discordLink": null,
+   "website": "http://dbdao.xyz/",
+   "tokenDescription": null,
+   "tokenTradeLink": null,
+   "tags": ["Data Storage"]
+}
